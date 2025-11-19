@@ -1,0 +1,36 @@
+{
+  "name": "get-nest-starter",
+  "version": "0.0.0",
+  "description": "Get production ready nest boilerplate with a single command",
+  "bin": {
+    "get-nest-starter": "./source/index.js"
+  },
+  "main": "./source/index.js",
+  "keywords": [
+    "nest",
+    "nest boilerplate",
+    "api boilerplate",
+    "nest typescript",
+    "nodejs starter",
+    "nest scaffold",
+    "rest api starter",
+    "typescript api starter",
+    "nest prisma",
+    "nest mongodb",
+    "nest postgresql",
+    "nest docker",
+    "jwt auth",
+    "api authentication",
+    "node cli",
+    "create nest app"
+  ],
+  "author": "Muhammad Hassan <hassandev404@gmail.com> (https://github.com/logicalHassan)",
+  "license": "MIT",
+  "files": [
+    "source",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "type": "module"
+}
