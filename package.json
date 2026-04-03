@@ -1,6 +1,6 @@
 {
   "name": "get-nest-starter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get production ready nest boilerplate with a single command",
   "bin": {
     "get-nest-starter": "./source/index.js"
