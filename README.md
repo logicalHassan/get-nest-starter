@@ -1,6 +1,6 @@
 # get-nest-starter
 
-> Production-ready NestJS boilerplate scaffolding tool — **Coming Soon**
+> Production-ready NestJS boilerplate scaffolding tool
 
 ---
 
